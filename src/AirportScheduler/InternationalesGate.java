@@ -13,6 +13,7 @@ public class InternationalesGate extends Gate{
     }
 
     public int getGroesse(){
+
         return groesse;
     }
 }
